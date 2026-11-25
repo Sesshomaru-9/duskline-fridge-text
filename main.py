@@ -18,8 +18,8 @@ import sys
 import tempfile
 
 ENTRY = (
-    "It's 3am. You opened me 7 times today and ate nothing. "
-    "I'm starting to think you're just lonely."
+    "It's 3am. You've opened me 8 times tonight and eaten absolutely nothing. "
+    "I'm a fridge, not a therapist — but I'm listening."
 )
 
 
